@@ -6,3 +6,4 @@
 # Cristina Gaytán 	-------- IA
 # Omar Mena 		-------- IA
 # Oswaldo Carreón 	-------- IA
+# Jürgen Schädtler 	-------- IA
