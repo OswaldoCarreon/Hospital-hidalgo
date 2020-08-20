@@ -4,5 +4,5 @@
 # José Arvizu 		-------- IA
 # Esteban Garcia 	-------- IA
 # Cristina Gaytán 	-------- IA
-# Omar Mea 			-------- IA
+# Omar Mena 		-------- IA
 # Oswaldo Carreón 	-------- IA
