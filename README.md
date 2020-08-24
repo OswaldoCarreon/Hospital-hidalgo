@@ -1,5 +1,5 @@
 # Repositorio de avances del proyecto Hospital Hidalgo
-# Contribuidores
+# Contribuidores papus:
 
 # José Arvizu 		-------- IA
 # Esteban Garcia 	-------- IA
