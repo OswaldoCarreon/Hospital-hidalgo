@@ -7,3 +7,4 @@
 # Omar Mena 		-------- IA
 # Oswaldo Carreón 	-------- IA
 # Jürgen Schädtler 	-------- IA
+# Maximiliano Lara --------- IA
