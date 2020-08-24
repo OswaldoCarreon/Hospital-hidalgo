@@ -1,5 +1,5 @@
 # Repositorio de avances del proyecto Hospital Hidalgo
-# Integrantes:
+# Integrantes
 
 # José Arvizu 		-------- IA
 # Esteban Garcia 	-------- IA
